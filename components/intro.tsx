@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=368&h=368&q=100"
+              src="https://firebasestorage.googleapis.com/v0/b/freelancer-d1f02.appspot.com/o/450874014_1165526631400978_6999999171611797089_n.jpg?alt=media&token=6b7dcbda-8d6e-4e2f-bc0d-9b3ae22d8551"
               alt="MacArnold portrait"
               width="192"
               height="192"
